@@ -1,0 +1,22 @@
+.home{
+    height: 98vh;
+    background-color: #1abc9c;
+}
+.homeAvatar{
+    width: 250px;
+}
+.leftLine{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}
+.rightLine{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}
+.homeHeading{
+    font-size: 40px !important;
+    font-weight: 700;
+    color: white;
+}

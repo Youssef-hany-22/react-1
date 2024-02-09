@@ -1,0 +1,19 @@
+.About{
+    height: 98vh;
+    background-color: #1abc9c;
+}
+.aboutHeading{
+    font-size: 40px !important;
+    font-weight: 700;
+    color: white;
+}
+.leftLine{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}
+.rightLine{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}

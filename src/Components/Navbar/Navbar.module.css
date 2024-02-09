@@ -1,0 +1,9 @@
+.NavLogo{
+    font-size: 32px !important;
+    font-weight: 700;
+}
+
+.Navbar{
+    background-color: #2c3e50 !important;
+    z-index: 9999999999999;
+}
