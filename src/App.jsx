@@ -7,6 +7,9 @@ import About from './Components/About/About';
 import Portfolio from './Components/Portfolio/Portfolio';
 import Contact from './Components/Contact/Contact';
 
+
+
+export default function App() {
   let routers = createHashRouter([
     {path:'',element:<Layout/>,children:[
       {index:true,element:<Home/>},
@@ -15,8 +18,6 @@ import Contact from './Components/Contact/Contact';
       {path:'contact',element:<Contact/>},
     ]}
   ])
-
-function App() {
   return <>
 
     <RouterProvider  router={routers} />
@@ -24,4 +25,4 @@ function App() {
   </>
 }
 
-export default App;
+
