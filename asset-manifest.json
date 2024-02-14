@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github.io/react-1/static/css/main.4443d4e7.css",
-    "main.js": "/github.io/react-1/static/js/main.37e4e7c4.js",
+    "main.js": "/github.io/react-1/static/js/main.8f72f797.js",
     "static/js/592.31a6f53c.chunk.js": "/github.io/react-1/static/js/592.31a6f53c.chunk.js",
     "static/media/fa-solid-900.ttf": "/github.io/react-1/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/fa-brands-400.ttf": "/github.io/react-1/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
@@ -18,11 +18,11 @@
     "static/media/logo.svg": "/github.io/react-1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/github.io/react-1/index.html",
     "main.4443d4e7.css.map": "/github.io/react-1/static/css/main.4443d4e7.css.map",
-    "main.37e4e7c4.js.map": "/github.io/react-1/static/js/main.37e4e7c4.js.map",
+    "main.8f72f797.js.map": "/github.io/react-1/static/js/main.8f72f797.js.map",
     "592.31a6f53c.chunk.js.map": "/github.io/react-1/static/js/592.31a6f53c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4443d4e7.css",
-    "static/js/main.37e4e7c4.js"
+    "static/js/main.8f72f797.js"
   ]
 }
